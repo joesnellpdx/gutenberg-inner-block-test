@@ -6,8 +6,11 @@ This repository contains four wordpress plugins - each a custom gutenberg block
 * nestlock-block - same as nest-block but with a locked template
 * child-block - block used as a demo child block
 
-1. Enable plugins on your wordpress site
-2. In each plugin  `npm install` and `npm start` or `npm build`
+Enable plugins on your wordpress site
+
+To modify one of the blocks:
+1. In each plugin `npm install`
+2. To modify `npm start`
 3. Test and play away
 
 Resources:
